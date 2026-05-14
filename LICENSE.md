@@ -1,4 +1,4 @@
-# 
+# OBS Studio for macOS premium Preset: video-stabilization & glitch-effect offers the most advanced OBS Studio for macOS preset, with video-stabilization and glitch-effect. Ideal
 
 
 
